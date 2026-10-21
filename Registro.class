@@ -1,4 +1,6 @@
 public class Registro{
     private String login;
     private String senha;
+    private int a;
+    private int b;
 }
