@@ -1,0 +1,4 @@
+public class Registro{
+    private String login;
+    private String senha;
+}
